@@ -1,0 +1,13 @@
+body {
+	background-color: whitesmoke
+}
+
+.reg-form {
+	position: relative;
+	left: 30%;
+	border: 2px solid gray;
+	background-color: cadetblue;
+	color: cornsilk;
+	padding: 21px;
+	font-weight: 600;
+}
