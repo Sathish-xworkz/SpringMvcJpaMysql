@@ -9,8 +9,9 @@
 <link rel="stylesheet" href="/OnlineShoppingMVCJpaMysql/URLToResources/css/mystyle.css">
 </head>
 <body>
-
+<jsp:include page="../../header.jsp"></jsp:include>
 <h4>User Registration</h4>
+<!-- <a href="view">View All Users</a> -->
 <form class="col-md-4 reg-form" method="post" action="newRegister" modelAttribute="user">
 <div class="form-group">
     <label for="exampleInputEmail1">ID</label>
